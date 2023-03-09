@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # codePenn
 Built an online code Editor using React. Feel free to contribute to it.
 =======
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> b698973a1b597779837ebea1f6dc6226ab291592
